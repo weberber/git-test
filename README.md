@@ -1,1 +1,1 @@
-# git-test funB
+# git-test funA
