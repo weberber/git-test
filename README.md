@@ -1,2 +1,2 @@
 # git-test
-test
+add fun1
