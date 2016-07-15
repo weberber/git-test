@@ -1,2 +1,1 @@
-# git-test GGG
-add fun1
+# git-test funB
